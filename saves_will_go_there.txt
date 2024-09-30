@@ -1,0 +1,4 @@
+Request Id: 1c5cee38-fc47-4dd1-8f4d-0f1b34b53200
+Correlation Id: 45776f37-2c5f-4eac-ae57-99a9dc0792df
+Timestamp: 2024-09-30T21:06:59Z
+Message: AADSTS500200: User account 'locoabordor8@gmail.com' is a personal Microsoft account. Personal Microsoft accounts are not supported for this application unless explicitly invited to an organization. Try signing out and signing back in with an organizational account.
